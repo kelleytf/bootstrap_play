@@ -1,0 +1,17 @@
+.btn-background {
+  background-color: #89c98a;
+  border: 3px solid-transparent;
+  border-radius: 10px;
+  font-weight: bold;
+  min-width: 5em;
+  margin-right: 2em;
+  margin-top: 1em;
+}
+
+.btn-leftJ {
+  float: left;
+}
+
+.btn-rightJ {
+  float: right;
+}
